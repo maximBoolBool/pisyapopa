@@ -1,0 +1,5 @@
+﻿*.json
+*.xml
+*.sln
+*.idea
+*.csproj
